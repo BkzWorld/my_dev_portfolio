@@ -21,6 +21,13 @@ const Footer = () => {
                 <div className="social-icon">
                     <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
                 </div>
+                <div >
+                    <a href="https://www.linkedin.com/in/bahnimaan-kashyap/">
+                        <div className="social-icon">
+                            <img src="/assets/ln.svg" alt="github" className="w-1/2 h-1/2"/>
+                        </div>
+                    </a>
+                </div>
             </div>
 
             <p className="text-white-500">© 2024 Bahnimaan Kashyap. All rights reserved.</p>

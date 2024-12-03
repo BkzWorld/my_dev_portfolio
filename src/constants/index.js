@@ -191,6 +191,17 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
     {
         id: 1,
+        name: 'GeeksforGeeks',
+        pos: 'Data Analyst Intern',
+        duration: 'November 2024 - present',
+        title: "Dashboard Development: Created interactive dashboards using tools like Tableau and Power BI to provide visual insights for tracking key performance metrics.\n" +
+            " Applied SQL server and Python to analyze data, perform statistical computations, and automate routine tasks.\n" +
+            "Implementing Microsoft Excel, Power BI in on going projects.",
+        icon: '/assets/g4g.svg',
+        animation: 'salute',
+    },
+    {
+        id: 2,
         name: 'Kareng Technologies',
         pos: 'Web Developer',
         duration: 'September 2023 - December 2023',
@@ -201,7 +212,7 @@ export const workExperiences = [
         animation: 'salute',
     },
     {
-        id: 2,
+        id: 3,
         name: 'Indian Institute of Information Technology, Guwahati',
         pos: 'Research Intern',
         duration: 'November 2022- January 2023',
@@ -212,7 +223,7 @@ export const workExperiences = [
         animation: 'salute',
     },
     {
-        id: 3,
+        id: 4,
         name: 'DAY-National Urban Livelihood Mission (Central Govt. of India)',
         pos: 'Junior Web Developer',
         duration: 'June - August 2021',
