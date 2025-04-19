@@ -193,7 +193,7 @@ export const workExperiences = [
         id: 1,
         name: 'GeeksforGeeks',
         pos: 'Data Analyst Intern',
-        duration: 'November 2024 - present',
+        duration: 'November 2024 - March 2025',
         title: "Dashboard Development: Created interactive dashboards using tools like Tableau and Power BI to provide visual insights for tracking key performance metrics.\n" +
             " Applied SQL server and Python to analyze data, perform statistical computations, and automate routine tasks.\n" +
             "Implementing Microsoft Excel, Power BI in on going projects.",
